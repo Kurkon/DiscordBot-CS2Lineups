@@ -1,0 +1,11 @@
+{
+  "token": "token",
+  "prefix": "-",
+  "ancient": "channel-ID",
+  "anubis": "channel-ID",
+  "dust2": "channel-ID",
+  "inferno": "channel-ID",
+  "mirage": "channel-ID",
+  "nuke": "channel-ID",
+  "vertigo": "channel-ID"
+}
